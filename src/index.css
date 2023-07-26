@@ -1,0 +1,14 @@
+.Square{
+  width:200px;
+  height:200px;
+  border:2px solid black;
+  margin:10px;
+}
+.inputBox{
+  width:200px;
+  height: 30px;
+  margin:10px;
+}
+body{
+  background:grey;
+}
